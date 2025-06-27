@@ -57,6 +57,5 @@
         </form>
       </section>
     </main>
-    </footer>
   </body>
 </html>
